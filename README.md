@@ -1,0 +1,1 @@
+Here are all of the exercises I have completed from the book "Learn Python the Hard Way"
