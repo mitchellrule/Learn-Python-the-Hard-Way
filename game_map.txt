@@ -1,0 +1,11 @@
+start room - three starting options (forward, left, right)
+each room with different objective (monster, puzzle door, search for key)
+
+left room - monster. skeleton, 3 kills options (stab with sword on ground, burn with torch, kick in ribs)
+
+front room - puzzle door. riddle encribed on door. single word answer
+
+right room - search for key. 
+
+treasure room
+
